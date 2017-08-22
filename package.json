@@ -1,0 +1,14 @@
+{
+  "name": "memovisor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "react": "15.0.2",
+    "react-native": "0.26.1",
+    "react-native-cli": "0.2.0"
+  }
+}
